@@ -1,1 +1,2 @@
-Hello Git
+Hello Git! It's my second edit
+It's the second line.
